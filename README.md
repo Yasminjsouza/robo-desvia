@@ -3,7 +3,7 @@
 
 
 # Robo desvia obstaculos
-Um projeto que o robo,ele desvia os obstaculos.
+Um projeto que o robo que desvia os obstaculos, através de sensores de chaves.
 
 
 ## Autor
