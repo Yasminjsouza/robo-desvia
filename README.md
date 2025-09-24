@@ -7,4 +7,4 @@ Um projeto que o robo,ele desvia os obstaculos.
 
 
 ## Autor
-Yasmin 
+Yasmin Jesus de Souza
